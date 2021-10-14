@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Lucas Freitas
-- 👀 I’m interested in Front-End
+- 👀 I want to be a Front-End Developer
 - 🌱 I’m currently learning Java Script and ReactJS
 - 📫 My email: lmatheus@oulook.com
 
 <div align="center">
 
   <a href="https://github.com/lmatheusfreitas">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lmatheusfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmatheusfreitas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lmatheusfreitas&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmatheusfreitas&layout=compact&langs_count=7&theme=white"/>
 
 
 <div style="display: inline_block"><br>
@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/lucas-freitas-3b0314141/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-    </div>
+</div>
 
 
